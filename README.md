@@ -1,2 +1,7 @@
-# apostilaVisualG
- Apostila e mini Curso Lógica de programação VisualG
+Sobre
+___
+Apostila e Mini Curso VisualG<br>
+<br>
+Conceitos sobre Lógica de Programação
+* [x] VisualG
+* [x] Mini Curso
